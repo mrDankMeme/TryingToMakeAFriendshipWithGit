@@ -17,6 +17,7 @@
 		ECDF71D623BC4CE600B76DDB /* TryingToMakeAFriendshipWithGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDF71D523BC4CE600B76DDB /* TryingToMakeAFriendshipWithGitUITests.swift */; };
 		ECDF71E726CD799200B76DDB /* NewBitchyFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDF71E626CD799200B76DDB /* NewBitchyFile.swift */; };
 		ECDF721A26CD820B00B76DDB /* Cherry_picking.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDF721926CD820B00B76DDB /* Cherry_picking.swift */; };
+		ECDF721F26CD823800B76DDB /* CP2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDF721E26CD823800B76DDB /* CP2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		ECDF71D723BC4CE600B76DDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ECDF71E626CD799200B76DDB /* NewBitchyFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewBitchyFile.swift; sourceTree = "<group>"; };
 		ECDF721926CD820B00B76DDB /* Cherry_picking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cherry_picking.swift; sourceTree = "<group>"; };
+		ECDF721E26CD823800B76DDB /* CP2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CP2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				ECDF71B723BC4CE400B76DDB /* ViewController.swift */,
 				ECDF71E626CD799200B76DDB /* NewBitchyFile.swift */,
 				ECDF721926CD820B00B76DDB /* Cherry_picking.swift */,
+				ECDF721E26CD823800B76DDB /* CP2.swift */,
 				ECDF71B923BC4CE400B76DDB /* Main.storyboard */,
 				ECDF71BC23BC4CE600B76DDB /* Assets.xcassets */,
 				ECDF71BE23BC4CE600B76DDB /* LaunchScreen.storyboard */,
@@ -269,6 +272,7 @@
 				ECDF71B623BC4CE400B76DDB /* SceneDelegate.swift in Sources */,
 				ECDF721A26CD820B00B76DDB /* Cherry_picking.swift in Sources */,
 				ECDF71E726CD799200B76DDB /* NewBitchyFile.swift in Sources */,
+				ECDF721F26CD823800B76DDB /* CP2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
