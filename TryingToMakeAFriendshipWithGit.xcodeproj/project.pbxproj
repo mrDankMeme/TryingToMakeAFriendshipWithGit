@@ -15,6 +15,7 @@
 		ECDF71C023BC4CE600B76DDB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ECDF71BE23BC4CE600B76DDB /* LaunchScreen.storyboard */; };
 		ECDF71CB23BC4CE600B76DDB /* TryingToMakeAFriendshipWithGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDF71CA23BC4CE600B76DDB /* TryingToMakeAFriendshipWithGitTests.swift */; };
 		ECDF71D623BC4CE600B76DDB /* TryingToMakeAFriendshipWithGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDF71D523BC4CE600B76DDB /* TryingToMakeAFriendshipWithGitUITests.swift */; };
+		ECDF71E726CD799200B76DDB /* NewBitchyFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDF71E626CD799200B76DDB /* NewBitchyFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		ECDF71D123BC4CE600B76DDB /* TryingToMakeAFriendshipWithGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TryingToMakeAFriendshipWithGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECDF71D523BC4CE600B76DDB /* TryingToMakeAFriendshipWithGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryingToMakeAFriendshipWithGitUITests.swift; sourceTree = "<group>"; };
 		ECDF71D723BC4CE600B76DDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ECDF71E626CD799200B76DDB /* NewBitchyFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewBitchyFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				ECDF71B323BC4CE400B76DDB /* AppDelegate.swift */,
 				ECDF71B523BC4CE400B76DDB /* SceneDelegate.swift */,
 				ECDF71B723BC4CE400B76DDB /* ViewController.swift */,
+				ECDF71E626CD799200B76DDB /* NewBitchyFile.swift */,
 				ECDF71B923BC4CE400B76DDB /* Main.storyboard */,
 				ECDF71BC23BC4CE600B76DDB /* Assets.xcassets */,
 				ECDF71BE23BC4CE600B76DDB /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				ECDF71B823BC4CE400B76DDB /* ViewController.swift in Sources */,
 				ECDF71B423BC4CE400B76DDB /* AppDelegate.swift in Sources */,
 				ECDF71B623BC4CE400B76DDB /* SceneDelegate.swift in Sources */,
+				ECDF71E726CD799200B76DDB /* NewBitchyFile.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
