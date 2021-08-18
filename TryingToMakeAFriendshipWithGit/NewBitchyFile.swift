@@ -10,3 +10,7 @@ import UIKit
 class ICONIC {
     
 }
+
+class ICONIC2 {
+    
+}
